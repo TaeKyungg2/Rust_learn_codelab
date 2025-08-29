@@ -1,0 +1,1 @@
+/Users/Taery/RustroverProjects/Learn\ Rust/target/debug/adding_useful_functionality_with_derived_traits: /Users/Taery/RustroverProjects/Learn\ Rust/Structs,\ Methods,\ Enums,\ and\ Pattern\ Matching/Structs/Adding\ Useful\ Functionality\ with\ Derived\ Traits/src/main.rs

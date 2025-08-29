@@ -1,0 +1,34 @@
+type: ide
+custom_name: "Task: Manage Conditions"
+files:
+  - name: src/main.rs
+    visible: true
+    placeholders:
+      - offset: 40
+        length: 59
+        placeholder_text: '!(!(number > 4 && number <= 9) && !(number > 10  && number
+      < 20))'
+        initial_state:
+          length: 65
+          offset: 40
+        initialized_from_dependency: false
+        encrypted_possible_answer: I+s1wUO/Of83cJQ3ApN1tLSbikORK4aalhreJnmflXWOv8J/IXn0iJcvDyWJarbbivBsJjwbhjP54MWVQjTI0rzPzQo/nEa3RuCJnYyYDfE=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
+  - name: images/demorgan_refactor_dark.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: images/demorgan_refactor.png
+    visible: false
+    is_binary: true
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+Managing+Conditions
+status: Solved
+feedback:
+  time: "Tue, 19 Aug 2025 09:07:33 UTC"
+record: -1

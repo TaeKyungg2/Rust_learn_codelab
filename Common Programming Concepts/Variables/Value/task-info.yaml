@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Give a Value"
+files:
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
+  - name: src/main.rs
+    visible: true
+    placeholders:
+      - offset: 21
+        length: 3
+        placeholder_text: ": i32"
+        initial_state:
+          length: 5
+          offset: 21
+        initialized_from_dependency: false
+        encrypted_possible_answer: q38dtQFc7zJNQoKZOoMf9g==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/tests.rs
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Value
+status: Solved
+feedback:
+  message: 축하합니다!
+  time: "Tue, 19 Aug 2025 03:13:00 UTC"
+record: -1

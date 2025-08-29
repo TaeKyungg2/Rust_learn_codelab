@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Constant Type"
+files:
+  - name: src/main.rs
+    visible: true
+    placeholders:
+      - offset: 12
+        length: 4
+        placeholder_text: /* Something wrong with this constant! */
+        initial_state:
+          length: 41
+          offset: 12
+        initialized_from_dependency: false
+        encrypted_possible_answer: LG35Bvni2Yh7mxyjbIMzKg==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
+  - name: tests/tests.rs
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Constant+Type
+status: Solved
+feedback:
+  message: 축하합니다!
+  time: "Tue, 19 Aug 2025 03:14:05 UTC"
+record: -1

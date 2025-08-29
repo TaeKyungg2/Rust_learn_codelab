@@ -1,0 +1,139 @@
+type: output
+custom_name: "Task: Who Owns the One Ring?"
+files:
+  - name: tests/output.txt
+    visible: false
+    learner_created: false
+  - name: src/main.rs
+    visible: true
+    placeholders:
+      - offset: 172
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 172
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: false
+        status: Solved
+      - offset: 209
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 206
+        initialized_from_dependency: false
+        encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+        selected: false
+        status: Solved
+      - offset: 245
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 242
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: false
+        status: Solved
+      - offset: 282
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 276
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: false
+        status: Solved
+      - offset: 395
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 386
+        initialized_from_dependency: false
+        encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+        selected: false
+        status: Solved
+      - offset: 429
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 420
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: false
+        status: Solved
+      - offset: 468
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 456
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: false
+        status: Solved
+      - offset: 505
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 490
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: false
+        status: Solved
+      - offset: 637
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 619
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: true
+        status: Solved
+      - offset: 674
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 653
+        initialized_from_dependency: false
+        encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
+        selected: false
+        status: Solved
+      - offset: 710
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 689
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: false
+        status: Solved
+      - offset: 747
+        length: 3
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 723
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Who+Owns+the+One+Ring
+status: Solved
+feedback:
+  message: 축하합니다!
+  time: "Tue, 19 Aug 2025 09:50:45 UTC"
+record: -1

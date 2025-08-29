@@ -1,0 +1,29 @@
+type: output
+custom_name: "Task: Summer Slice"
+files:
+  - name: tests/output.txt
+    visible: false
+    learner_created: false
+  - name: src/main.rs
+    visible: true
+    placeholders:
+      - offset: 199
+        length: 14
+        placeholder_text: months
+        initial_state:
+          length: 6
+          offset: 199
+        initialized_from_dependency: false
+        encrypted_possible_answer: 67ShoB7s3l6FEuFccLvbTw==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Summer+Slice
+status: Solved
+feedback:
+  message: 축하합니다!
+  time: "Wed, 20 Aug 2025 05:14:16 UTC"
+record: -1

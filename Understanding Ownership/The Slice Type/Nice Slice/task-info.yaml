@@ -1,0 +1,29 @@
+type: edu
+custom_name: "Task: Nice Slice"
+files:
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
+  - name: src/main.rs
+    visible: true
+    placeholders:
+      - offset: 63
+        length: 9
+        placeholder_text: //type the invocation of the slice here
+        initial_state:
+          length: 39
+          offset: 63
+        initialized_from_dependency: false
+        encrypted_possible_answer: v4qK1VLqNIpP47xlkBWKbA==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/tests.rs
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Nice+Slice
+status: Solved
+feedback:
+  message: 축하합니다!
+  time: "Wed, 20 Aug 2025 05:11:58 UTC"
+record: -1

@@ -1,0 +1,1 @@
+/Users/Taery/RustroverProjects/Learn\ Rust/target/debug/iterating_over_the_values_in_a_vector: /Users/Taery/RustroverProjects/Learn\ Rust/Common\ Collections/Vectors/Iterating\ over\ the\ Values\ in\ a\ Vector/src/main.rs

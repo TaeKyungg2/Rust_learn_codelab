@@ -1,0 +1,1 @@
+/Users/Taery/RustroverProjects/Learn\ Rust/target/debug/scopes_of_references: /Users/Taery/RustroverProjects/Learn\ Rust/Understanding\ Ownership/References\ and\ Borrowing/Scopes\ of\ References/src/main.rs

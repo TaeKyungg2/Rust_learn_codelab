@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Korean" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Korean">
+          <value>
+            <map>
+              <entry key="1003947841" value="모듈 정의하기  " />
+              <entry key="1005120038" value="클로저를 사용하여 환경 캡처하기  " />
+              <entry key="1008144825" value="옵션  " />
+              <entry key="1008215558" value="panic으로 복구 불가능한 에러 처리  " />
+              <entry key="1017917019" value="소유권 및 함수  " />
+              <entry key="1022919" value="소개  " />
+              <entry key="102681658" value="while을 사용한 조건부 루프  " />
+              <entry key="1030673590" value="벡터의 요소 읽기  " />
+              <entry key="1032215800" value="예제: 직사각형 다루기  " />
+              <entry key="103435" value="소개  " />
+              <entry key="103436" value="공통 프로그래밍 개념  " />
+              <entry key="103437" value="소유권 이해하기  " />
+              <entry key="103438" value="모듈  " />
+              <entry key="103439" value="공통 컬렉션  " />
+              <entry key="103440" value="에러 처리  " />
+              <entry key="103441" value="자동화된 테스트 작성하기  " />
+              <entry key="103443" value="두려움 없는 동시성  " />
+              <entry key="1041955187" value="작업: X번째 날 집에 혼자  " />
+              <entry key="1052050764" value="작업: Cow 사용  " />
+              <entry key="1062999995" value="벡터 삭제 시 요소 제거  " />
+              <entry key="1063411002" value="  단계 1: 라이브러리 크레이트 생성  " />
+              <entry key="1063472546" value="요약  " />
+              <entry key="1075475553" value="슬라이스 타입  " />
+              <entry key="1082489777" value="작업: 가변 변수 바인딩  " />
+              <entry key="1088634202" value="소유권 이동  " />
+              <entry key="1101470788" value="참조와 빌리기  " />
+              <entry key="1103094598" value="문자열 인덱싱  " />
+              <entry key="1104571135" value="테스트 조직화  " />
+              <entry key="1109559119" value="중첩된 경로를 사용해 큰 use 목록 정리하기  " />
+              <entry key="1122471425" value="작업: 더 많은 과일  " />
+              <entry key="1139014416" value="트레이트  " />
+              <entry key="1139107079" value="문자열  " />
+              <entry key="1158989440" value="데이터와 메서드를 가진 열거형  " />
+              <entry key="1170207296" value="여러 타입을 저장하기 위한 Enum 사용  " />
+              <entry key="117319845" value="기본 구현  " />
+              <entry key="117677279" value="구조체, 메서드, 열거형, 그리고 패턴 매칭  " />
+              <entry key="1178252390" value="해시 맵 업데이트  " />
+              <entry key="1182204989" value="작업: 리터럴에서 문자열 만들기  " />
+              <entry key="118579404" value="값에 바인딩되는 패턴들  " />
+              <entry key="1187875855" value="열거형 정의에서  " />
+              <entry key="1194068906" value="작업: 모든 숫자 합산  " />
+              <entry key="1206777257" value="작업: 문자열 변환기  " />
+              <entry key="1207641964" value="작업: Clippy를 외부 Linter로 사용  " />
+              <entry key="1211407258" value="매크로와 함수의 차이점  " />
+              <entry key="1221363942" value="절차적 매크로  " />
+              <entry key="1226511802" value="작업: 라이프타임 지정  " />
+              <entry key="1229838964" value="작업: Vectors에서 제네릭 사용  " />
+              <entry key="1233134621" value="에러 전파의 한계  " />
+              <entry key="1238203014" value="작업: 조건 관리하기  " />
+              <entry key="1241628924" value="파생된 트레잇으로 유용한 기능 추가하기  " />
+              <entry key="1247971863" value="소개  " />
+              <entry key="1248325419" value="작업: 패턴 바인딩  " />
+              <entry key="1250347958" value="가변 참조  " />
+              <entry key="1251966206" value="중복 없는 코드  " />
+              <entry key="1255575778" value="작업: 새로운 변수 바인딩  " />
+              <entry key="1263873041" value="메서드 정의하기  " />
+              <entry key="1273186527" value="작업: 가변 인수를 가진 더 많은 감탄문들  " />
+              <entry key="1278020830" value="다른 슬라이스  " />
+              <entry key="1278934357" value="작업: 고급 에러  " />
+              <entry key="1280981416" value="작업: Box 사용  " />
+              <entry key="1287727310" value="튜플 타입  " />
+              <entry key="129748376" value="소개  " />
+              <entry key="1302427131" value="테스트에서 Result 사용하기  " />
+              <entry key="1319742354" value="From과 Into  " />
+              <entry key="1320752604" value="join 핸들을 사용하여 모든 스레드가 종료되기를 기다리기  " />
+              <entry key="1322962627" value="작업: 타이핑 받은 셀 수 세기  " />
+              <entry key="1328927593" value="문자  " />
+              <entry key="1339655377" value="메서드 정의에서 Lifetime 주석  " />
+              <entry key="1342026890" value="Lifetime 주석 문법  " />
+              <entry key="1360966972" value="열거형 정의하기  " />
+              <entry key="1363000490" value="작업: 색상 구조체와 놀기  " />
+              <entry key="1366760111" value="Mutex&lt;T&gt; API  " />
+              <entry key="13781750" value="단위 테스트  " />
+              <entry key="1384085479" value="작업: 패키지 보내기  " />
+              <entry key="1386464393" value="클로저  " />
+              <entry key="1399825717" value="매개변수로서의 문자열 슬라이스  " />
+              <entry key="140075486" value="모두 잡아내는 패턴과 _ 플레이스홀더  " />
+              <entry key="1412601441" value="작업: 반복자를 사용하여 벡터 순회  " />
+              <entry key="14132382" value="소개  " />
+              <entry key="1425215109" value="Lifetime 관점에서 사고하기  " />
+              <entry key="1435206826" value="예제: sort_by_key  " />
+              <entry key="1439756218" value="작업: Rc 사용  " />
+              <entry key="1443937835" value="작업: 메서드 추출 리팩토링  " />
+              <entry key="1462131015" value="작업: 매칭 구현하기  " />
+              <entry key="1474234055" value="다양한 에러 매칭  " />
+              <entry key="1485410654" value="에러 전파  " />
+              <entry key="1492647473" value="부동소수점 유형  " />
+              <entry key="1493926514" value="문자열 업데이트  " />
+              <entry key="1494553809" value="제네릭을 사용한 코드 성능  " />
+              <entry key="150081369" value="다른 인스턴스로부터 인스턴스 생성하기  " />
+              <entry key="1501351139" value="글로벌 연산자(Glob Operator)  " />
+              <entry key="1520360038" value="숫자 연산  " />
+              <entry key="1520701026" value="작업: 여름 슬라이스  " />
+              <entry key="1532293599" value="소개  " />
+              <entry key="153461655" value="요약  " />
+              <entry key="1540602084" value="소개  " />
+              <entry key="1543446132" value="작업: 라이프타임 통합  " />
+              <entry key="1546402481" value="댕글링 참조  " />
+              <entry key="1547325545" value="범위 순회하기  " />
+              <entry key="155430219" value="요약  " />
+              <entry key="1560212004" value="정수 유형  " />
+              <entry key="1561432353" value="작업: 구조체 업데이트  " />
+              <entry key="1566817461" value="작업: 모든 핸들 병합  " />
+              <entry key="1584139616" value="작업: 값 제공  " />
+              <entry key="1585635681" value="작업: 시간 확인하기  " />
+              <entry key="1601634575" value="Option 열거형  " />
+              <entry key="1608065847" value="환경을 캡처하는 클로저 사용  " />
+              <entry key="1612359634" value="함수 매개변수  " />
+              <entry key="1635707965" value="문자열 리터럴은 슬라이스이다  " />
+              <entry key="1638014521" value="속성 같은 매크로  " />
+              <entry key="1640360030" value="배열을 for로 순회하기  " />
+              <entry key="1652339224" value="반복  " />
+              <entry key="1659063000" value="작업: 점수 표 만들기  " />
+              <entry key="1659920785" value="RefCell&lt;T&gt;/Rc&lt;T&gt;와 Mutex&lt;T&gt;/Arc&lt;T&gt;의 유사점  " />
+              <entry key="1668714188" value="Trait Bounds로 가장 큰 함수 수정하기  " />
+              <entry key="1672793953" value="작업: Vec 트레이트  " />
+              <entry key="1674870019" value="기본 데이터 타입  " />
+              <entry key="167581962" value="더 많은 매개변수를 가진 메서드  " />
+              <entry key="1675857666" value="작업: 라이선스 비교  " />
+              <entry key="1675895729" value="사용자 정의 derive 매크로 작성 방법  " />
+              <entry key="167626233" value="함수 서명에서 Lifetime 주석  " />
+              <entry key="1679218659" value="작업: 함수 테스트하기  " />
+              <entry key="1693829952" value="구조체 정의 및 초기화  " />
+              <entry key="1696297721" value="참조의 범위  " />
+              <entry key="1711068755" value="작업: 튜플: Clone 또는 Copy  " />
+              <entry key="171279379" value="작업: 진행 상황 카운트  " />
+              <entry key="1715928876" value="에러 전파를 위한 바로가기  " />
+              <entry key="1716390043" value="테스트 작성 방법  " />
+              <entry key="172074781" value="pub use로 이름 재수출하기  " />
+              <entry key="1740475492" value="기본 구현이 없는 메서드 호출  " />
+              <entry key="1747181674" value="Trait Bounds를 사용하여 조건부 메서드 구현  " />
+              <entry key="1750337792" value="요약  " />
+              <entry key="1765755974" value="작업: 감탄문의 마지막 복수  " />
+              <entry key="178354253" value="작업: Clippy로 Option 확인  " />
+              <entry key="1791335948" value="  단계 2: 프로시저 매크로 정의  " />
+              <entry key="1793779890" value="통합 테스트에서 서브모듈  " />
+              <entry key="1813800728" value="연관 함수와 여러 impl 블록  " />
+              <entry key="182522575" value="스레드 간 데이터 전송을 위한 메시지 전달 사용  " />
+              <entry key="1835671940" value="캡처한 값을 클로저 밖으로 이동 및 Fn 트레이트  " />
+              <entry key="1839621434" value="작업: 램프 전환  " />
+              <entry key="1844598899" value="반환 값을 가지는 함수  " />
+              <entry key="1856808445" value="AsRef와 AsMut  " />
+              <entry key="1858915795" value="표준 라이브러리 타입  " />
+              <entry key="1861856979" value="작업: 클로저로 시퀀스 필터링  " />
+              <entry key="1867339050" value="새 문자열 생성  " />
+              <entry key="1868258931" value="소유권이란 무엇인가  " />
+              <entry key="1868862068" value="작업: 엔진 내의 작업자들  " />
+              <entry key="1874946640" value="매칭은 완전해야 한다  " />
+              <entry key="1885200339" value="채널 생성  " />
+              <entry key="1888952635" value="편집기  " />
+              <entry key="1890423352" value="as 키워드로 새로운 이름 지정하기  " />
+              <entry key="1896705691" value="메서드를 가진 구조체  " />
+              <entry key="1896801178" value="변수 범위  " />
+              <entry key="1900601419" value="작업: 첫 글자 대문자로 변환  " />
+              <entry key="1930581512" value="제네릭 데이터 타입  " />
+              <entry key="1930688254" value="문자열 타입  " />
+              <entry key="1940319211" value="소개  " />
+              <entry key="1942191630" value="구조체와 열거형을 공개적으로 만들기  " />
+              <entry key="1951157774" value="요약  " />
+              <entry key="1954047515" value="작업: 범위 탐색하기  " />
+              <entry key="1956449750" value="코스 보기  " />
+              <entry key="1960065281" value="여러 스레드를 이용한 다중 소유권  " />
+              <entry key="196849707" value="`Arc&lt;T&gt;`를 사용한 원자적 참조 카운팅  " />
+              <entry key="1985306464" value="작업: 참조 순서  " />
+              <entry key="1988667765" value="Struct 정의에서의 Lifetime 주석  " />
+              <entry key="1990277744" value="Mutex&lt;T&gt;를 여러 스레드 간에 공유하기  " />
+              <entry key="1993093923" value="코드를 동시에 실행하기 위해 스레드 사용  " />
+              <entry key="1994784250" value="소개  " />
+              <entry key="1997020243" value="벡터 업데이트하기  " />
+              <entry key="1998373859" value="작업: 누가 반지를 소유할까?  " />
+              <entry key="2000427279" value="타입에 트레이트 구현하기  " />
+              <entry key="2005165709" value="구조체 정의에서  " />
+              <entry key="2006086218" value="트레이트 정의하기  " />
+              <entry key="201498006" value="Option을 사용하여 매칭하기  " />
+              <entry key="2020766232" value="함수 정의에서  " />
+              <entry key="2026098198" value="빠른 참조  " />
+              <entry key="2029461687" value="매치 연산자  " />
+              <entry key="2033370164" value="스마트 포인터  " />
+              <entry key="2039994672" value="해시 맵의 값 접근  " />
+              <entry key="2041311681" value="통합 테스트  " />
+              <entry key="2043683507" value="튜플과 배열  " />
+              <entry key="2059088948" value="소개  " />
+              <entry key="2059988272" value="값 전송  " />
+              <entry key="2062649995" value="변수, 함수, 조건문 테스트  " />
+              <entry key="2064596125" value="작업: Enable External Linter  " />
+              <entry key="2067250722" value="Lifetime으로 덩그러니 남는 참조 방지  " />
+              <entry key="2072067615" value="해시맵  " />
+              <entry key="208184793" value="FromStr 구현하기  " />
+              <entry key="2085492098" value="작업: 참조가 있는 구조체의 라이프타임  " />
+              <entry key="2086883187" value="문자열 슬라이스  " />
+              <entry key="2088741185" value="작업: 타입 이해하기  " />
+              <entry key="2123538987" value="제네릭 타입, 트레이트, 그리고 라이프타임  " />
+              <entry key="2130917215" value="작업: 상수 유형  " />
+              <entry key="2132519648" value="작업: 감탄문들의 반격  " />
+              <entry key="2135250668" value="macro_rules!로 선언적 매크로 만들기  " />
+              <entry key="213737535" value="let 문에서 if 사용하기  " />
+              <entry key="2142854428" value="소개  " />
+              <entry key="219173847" value="소개  " />
+              <entry key="225553404" value="제네릭 타입 혼합  " />
+              <entry key="247415491" value="요약" />
+              <entry key="250421919" value="송신기를 복제하여 여러 생성자 만들기  " />
+              <entry key="257982860" value="속성에서 코드 생성하는 프로시저 매크로  " />
+              <entry key="262040317" value="타입 변환  " />
+              <entry key="264790944" value="If Let  " />
+              <entry key="265159969" value="튜플로 리팩토링하기  " />
+              <entry key="270124130" value="Lifetime: 영역에서 벗어나기  " />
+              <entry key="271619" value="시작하기  " />
+              <entry key="271620" value="변수  " />
+              <entry key="271622" value="함수  " />
+              <entry key="271624" value="조건문  " />
+              <entry key="271626" value="모듈  " />
+              <entry key="271627" value="선언적 매크로  " />
+              <entry key="271631" value="에러 처리  " />
+              <entry key="271632" value="테스트 실행 및 구성  " />
+              <entry key="271634" value="이터레이터" />
+              <entry key="274275577" value="데이터 포함 열거형 값  " />
+              <entry key="275727399" value="에러 기초  " />
+              <entry key="28112392" value="작업: 유형 변경  " />
+              <entry key="285778180" value="작업: 인수 없는 더 많은 감탄문들  " />
+              <entry key="291828379" value="벡터의 값을 반복 처리하기  " />
+              <entry key="296701909" value="예제: unwrap_or_else  " />
+              <entry key="297625680" value="Lifetime 생략  " />
+              <entry key="303501042" value="소개  " />
+              <entry key="311737426" value="문자열을 반복 처리  " />
+              <entry key="318636675" value="작업: 패턴 매칭에서 Options  " />
+              <entry key="319957584" value="다른 반복자를 생성하는 메서드  " />
+              <entry key="328918674" value="함수에서 제네릭 Lifetime  " />
+              <entry key="333362320" value="assert_eq 및 assert_ne 매크로로 평등성 테스트하기  " />
+              <entry key="337862672" value="작업: 트레이트 구현하기  " />
+              <entry key="346426210" value="새로운 해시 맵 생성  " />
+              <entry key="347744254" value="트레이트를 구현하는 타입 반환하기  " />
+              <entry key="352316978" value="작업: Clippy 제안 더 확인하기  " />
+              <entry key="353808836" value="super로 시작하는 상대 경로  " />
+              <entry key="363683846" value="작업: 더 많은 감탄문들  " />
+              <entry key="378872250" value="작업: 복잡한 메시지 전달  " />
+              <entry key="383808174" value="작업: 더 많은 감탄문들 2  " />
+              <entry key="386507872" value="작업: 문자열 처리  " />
+              <entry key="393564051" value="문자열 슬라이싱  " />
+              <entry key="400448326" value="구조체로 리팩토링하기: 더 많은 의미 추가  " />
+              <entry key="40951438" value="메서드 정의에서  " />
+              <entry key="411222476" value="수명  " />
+              <entry key="431804675" value="가변 참조 제한  " />
+              <entry key="456611487" value="작업 설명  " />
+              <entry key="457176416" value="열거형  " />
+              <entry key="459088792" value="매크로  " />
+              <entry key="466911224" value="Clone과 Copy  " />
+              <entry key="467192666" value="튜플 구조체  " />
+              <entry key="473216042" value="패턴 매칭  " />
+              <entry key="493564259" value="클로저 타입 추론 및 주석  " />
+              <entry key="494773509" value="공유 상태 동시성  " />
+              <entry key="500489820" value="작업: 사용자 정의 에러  " />
+              <entry key="500559553" value="참조의 규칙  " />
+              <entry key="500996998" value="should_panic으로 패닉 확인하기  " />
+              <entry key="509091490" value="필드 초기화 단축 구문 사용하기  " />
+              <entry key="509104223" value="소개  " />
+              <entry key="514899863" value="새로운 벡터 생성하기  " />
+              <entry key="51522697" value="Static Lifetime  " />
+              <entry key="520953256" value="작업: Trait Bound 문법  " />
+              <entry key="521212377" value="작업: 매크로 구현  " />
+              <entry key="523112973" value="작업: 과일 배달  " />
+              <entry key="535993677" value="다른 데이터를 가진 열거형 값  " />
+              <entry key="536180729" value="주변 탐색  " />
+              <entry key="540756642" value="작업: 리팩토링으로 중복 제거하기  " />
+              <entry key="554988674" value="소개  " />
+              <entry key="561540042" value="작업: as 사용  " />
+              <entry key="56206075" value="파라미터로서의 트레이트  " />
+              <entry key="566586203" value="스레드에서 move 클로저 사용  " />
+              <entry key="567253858" value="소개  " />
+              <entry key="574915575" value="작업: Structs에서 제네릭 사용  " />
+              <entry key="588857367" value="함수 같은 매크로  " />
+              <entry key="59771808" value="작업: 화씨를 섭씨로 변환  " />
+              <entry key="602362760" value="해시 맵과 소유권  " />
+              <entry key="602393854" value="작업: 달력 월 다시 출력  " />
+              <entry key="60722631" value="작업: 멋진 슬라이스  " />
+              <entry key="612842480" value="작업: 월 출력하기  " />
+              <entry key="62649169" value="작업: 반복 가능한 컬렉션  " />
+              <entry key="626830309" value="에러에서 간단히 panic하기 - unwrap과 expect  " />
+              <entry key="632936712" value="작업: 벡터에서 반복 처리  " />
+              <entry key="639883759" value="작업: 라이선스 관리  " />
+              <entry key="641308811" value="Reference vs push  " />
+              <entry key="64149064" value="작업: 변수 리팩토링 도입  " />
+              <entry key="676636196" value="부울값  " />
+              <entry key="677268551" value="요약  " />
+              <entry key="696225797" value="소개  " />
+              <entry key="697487380" value="요약  " />
+              <entry key="703690403" value="소개  " />
+              <entry key="712621824" value="외부 패키지 사용하기  " />
+              <entry key="71460633" value="요약  " />
+              <entry key="71775849" value="트레이트  " />
+              <entry key="718521888" value="작업: 문자열 다듬기  " />
+              <entry key="726609420" value="참조를 사용하여 값 빌리기  " />
+              <entry key="73167570" value="테스트 실행하기  " />
+              <entry key="737300040" value="가장 큰 수 계산하기  " />
+              <entry key="742053261" value="pub 키워드로 경로 노출하기  " />
+              <entry key="750069960" value="작업: 합계 찾기  " />
+              <entry key="759957889" value="채널과 소유권 이동  " />
+              <entry key="767484406" value="반환값과 범위  " />
+              <entry key="798112871" value="panic 백트레이스 사용  " />
+              <entry key="801743039" value="작업: 조건 추가하기  " />
+              <entry key="80910339" value="작업: 고급 에러 2  " />
+              <entry key="809403826" value="반복자를 소비하는 메서드  " />
+              <entry key="80983513" value="Borrow Checker  " />
+              <entry key="811789983" value="제네릭 타입 매개변수, 트레이트 바운드, 그리고 라이프타임 함께 사용  " />
+              <entry key="816380957" value="구조체  " />
+              <entry key="817483318" value="중복된 코드 조각  " />
+              <entry key="817935296" value="TryFrom 구현하기  " />
+              <entry key="830300035" value="소개  " />
+              <entry key="839308691" value="작업: 메시지 전달  " />
+              <entry key="84267066" value="spawn으로 새 스레드 생성  " />
+              <entry key="858192685" value="작업: 가격 계산하기  " />
+              <entry key="871495868" value="여러 값을 전송하고 수신자의 대기를 확인하기  " />
+              <entry key="884239708" value="작업: 트레이트 결합  " />
+              <entry key="893902885" value="작업: 아이스크림 먹고 싶으세요?  " />
+              <entry key="89815242" value="벡터  " />
+              <entry key="904933" value="작업: Hello World  " />
+              <entry key="904934" value="소개  " />
+              <entry key="904935" value="변수와 가변성  " />
+              <entry key="904937" value="상수  " />
+              <entry key="904938" value="섀도잉  " />
+              <entry key="904939" value="작업: 변수 유형  " />
+              <entry key="904943" value="작업: 아침인가 저녁인가?  " />
+              <entry key="904944" value="작업: 문자 종류  " />
+              <entry key="904945" value="배열 타입  " />
+              <entry key="904946" value="작업: 배열 만들기  " />
+              <entry key="904948" value="작업: 튜플 구조 분해하기  " />
+              <entry key="904949" value="작업: 튜플 인덱스 사용하기  " />
+              <entry key="904950" value="소개  " />
+              <entry key="904951" value="문장과 표현식  " />
+              <entry key="904952" value="작업: 함수 정의하기  " />
+              <entry key="904953" value="작업: 매개변수의 타입 주석  " />
+              <entry key="904954" value="작업: 인수 전달하기  " />
+              <entry key="904955" value="작업: 반환 타입  " />
+              <entry key="904956" value="작업: 값 반환하기  " />
+              <entry key="904959" value="소개  " />
+              <entry key="904960" value="else if  " />
+              <entry key="904961" value="루프를 사용한 반복  " />
+              <entry key="904962" value="작업: 더 큰 수 반환하기  " />
+              <entry key="904965" value="소개  " />
+              <entry key="904970" value="소개  " />
+              <entry key="904971" value="모듈 트리에서 항목을 참조하는 경로  " />
+              <entry key="904972" value="use 키워드로 경로 가져오기  " />
+              <entry key="904973" value="모듈을 다른 파일로 분리하기  " />
+              <entry key="904974" value="작업: 소시지 만들기  " />
+              <entry key="904975" value="작업: 간식을 먹어보자  " />
+              <entry key="904977" value="소개  " />
+              <entry key="904978" value="작업: 매크로 호출  " />
+              <entry key="904979" value="작업: 매크로 선언  " />
+              <entry key="904980" value="작업: 모듈 외부  " />
+              <entry key="904981" value="작업: 매크로 팔  " />
+              <entry key="904983" value="소개  " />
+              <entry key="904984" value="작업: 문자열 반환  " />
+              <entry key="904985" value="작업: 문자열 잘라내기  " />
+              <entry key="904986" value="작업: 문자열과 &amp;strs  " />
+              <entry key="904987" value="소개  " />
+              <entry key="904988" value="Result로 복구 가능한 에러 처리  " />
+              <entry key="904990" value="작업: Result 반환하기  " />
+              <entry key="904991" value="작업: Result 매칭하기  " />
+              <entry key="904992" value="작업: 확장된 Result 매칭  " />
+              <entry key="904993" value="작업: 여러 에러  " />
+              <entry key="904998" value="작업: 양의 0이 아닌 정수  " />
+              <entry key="904999" value="소개  " />
+              <entry key="905000" value="사용자 정의 실패 메시지 추가  " />
+              <entry key="905001" value="작업: assert! 사용하기  " />
+              <entry key="905002" value="작업: assert_eq! 사용하기  " />
+              <entry key="905004" value="작업: Times Two  " />
+              <entry key="905005" value="반복자를 사용하여 항목 처리  " />
+              <entry key="905006" value="소개  " />
+              <entry key="905007" value="작업: Arc 사용  " />
+              <entry key="905009" value="작업: 나눗셈 처리  " />
+              <entry key="905010" value="작업: 팩토리얼 계산  " />
+              <entry key="905012" value="소개  " />
+              <entry key="905014" value="작업: 완료된 작업 수 계산  " />
+              <entry key="910674267" value="작업: 직접 벡터 만들기  " />
+              <entry key="921255735" value="Mutex 사용  " />
+              <entry key="927170804" value="assert 매크로로 결과 확인하기  " />
+              <entry key="943747377" value="참조 캡처 또는 소유권 이동  " />
+              <entry key="958003439" value="Iterator 트레이트와 next 메서드  " />
+              <entry key="972892025" value="구조체 데이터의 소유권  " />
+              <entry key="974020808" value="값 수신  " />
+              <entry key="992829462" value="테스트 함수의 구조  " />
+              <entry key="995237923" value="작업: 이동, 빌리기, 변이 또는 무엇  " />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Korean" value="2162" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,52 @@
+type: edu
+custom_name: "Task: Add Conditions"
+files:
+  - name: src/lib.rs
+    visible: true
+    placeholders:
+      - offset: 96
+        length: 20
+        placeholder_text: /* Something goes here */
+        initial_state:
+          length: 25
+          offset: 96
+        initialized_from_dependency: false
+        encrypted_possible_answer: /woAluQ8/g4A/EeI65UruezyPQKTHY6lCCJJJhmsYtA=
+        selected: true
+        status: Solved
+      - offset: 127
+        length: 5
+        placeholder_text: /* Something goes here */
+        initial_state:
+          length: 25
+          offset: 132
+        initialized_from_dependency: false
+        encrypted_possible_answer: w/IJOa/X0wTeRQDPu82lig==
+        selected: true
+        status: Solved
+      - offset: 139
+        length: 12
+        placeholder_text: /* Something goes here */
+        initial_state:
+          length: 25
+          offset: 164
+        initialized_from_dependency: false
+        encrypted_possible_answer: uIOVN3BKcAggn5BPywCqjtUuenYsPTzx5Y6Fh1SJ5YA=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: src/main.rs
+    visible: true
+    learner_created: false
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
+  - name: tests/tests.rs
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+Add+Conditions
+status: Solved
+feedback:
+  message: 축하합니다!
+  time: "Tue, 19 Aug 2025 08:59:33 UTC"
+record: -1
